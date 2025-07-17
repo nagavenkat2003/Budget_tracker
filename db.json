@@ -1,0 +1,40 @@
+{
+  "transaction": [
+    {
+      "id": "2003",
+      "description": "Grocery shopping",
+      "amount": "2500",
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2025-7-16",
+      "payment_method": "online"
+    },
+    {
+      "id": "1144",
+      "description": "Mc_donals",
+      "amount": "1000",
+      "type": "expense",
+      "category": "Food",
+      "date": "2025-7-10",
+      "payment_method": "online"
+    },
+    {
+      "id": "2003",
+      "description": "Wipro",
+      "amount": "2500",
+      "type": "Earned",
+      "category": "Salary",
+      "date": "2025-7-15",
+      "payment_method": "online"
+    },
+    {
+      "id": "5522",
+      "description": "Infosys",
+      "amount": "35000",
+      "type": "Earned",
+      "category": "Salary",
+      "date": "2025-7-15",
+      "payment_method": "online"
+    }
+  ]
+}
